@@ -1,0 +1,17 @@
+{
+  "name": "language-tdl",
+  "version": "0.0.0",
+  "description": "TDL language support in Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lizcconrad/language-tdl"
+  },
+  "bugs": {
+    "url": "https://github.com/lizcconrad/language-tdl/issues"
+  },
+  "license": "MIT"
+}
